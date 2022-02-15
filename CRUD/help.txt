@@ -1,0 +1,8 @@
+This program uses fifth types of primary arguments:
+1. create - create entry of user
+2. read_user - read entry of user by email
+3. read_all - read all user storage
+3. update - update user data (email, name, password, phone)
+4. delete - delete user entry or all database
+
+In case of wrong command entry program prints "Please enter create or read, or update, or delete actions"
