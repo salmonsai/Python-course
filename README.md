@@ -1,2 +1,1 @@
-# homework
-python homework
+Homework from python course
